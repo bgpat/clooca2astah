@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "svg2png": "^4.1.1",
+    "xml2js": "^0.4.19"
+  }
+}
